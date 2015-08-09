@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aWhere.Api.Weather.Sample", "aWhere.Api.Weather.Sample.csproj", "{63CFDDF6-F66E-40C9-9500-B56293FF709F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E38D3507-DF97-4356-A761-ECDDC61651FA}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfsdata.awhere.com:8080/
+		SccProjectUniqueName0 = aWhere.Api.Weather.Sample.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = http://tfsdata.awhere.com:8080
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63CFDDF6-F66E-40C9-9500-B56293FF709F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CFDDF6-F66E-40C9-9500-B56293FF709F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CFDDF6-F66E-40C9-9500-B56293FF709F}.Debug|x86.ActiveCfg = Debug|x86
+		{63CFDDF6-F66E-40C9-9500-B56293FF709F}.Debug|x86.Build.0 = Debug|x86
+		{63CFDDF6-F66E-40C9-9500-B56293FF709F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CFDDF6-F66E-40C9-9500-B56293FF709F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CFDDF6-F66E-40C9-9500-B56293FF709F}.Release|x86.ActiveCfg = Release|x86
+		{63CFDDF6-F66E-40C9-9500-B56293FF709F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
